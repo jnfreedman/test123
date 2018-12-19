@@ -6,5 +6,4 @@ main()
 {
     char *test = 'test';
     printf("Hello World!");
-
 }
